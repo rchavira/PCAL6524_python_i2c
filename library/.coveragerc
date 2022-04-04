@@ -1,0 +1,4 @@
+[run]
+source = pcal6524
+omit =
+    .tox/*
